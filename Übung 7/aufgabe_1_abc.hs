@@ -1,4 +1,4 @@
--- Ivica Kopcalija
+-- Leoni, Lisa, Ivica
 -- 08.12.2022
 -- 7. Aufgabenblatt zur Einheit Listen
 -- Aufgabe 1
